@@ -1,6 +1,7 @@
 {
+  "$schema": "https://json.schemastore.org/package",
   "name": "react",
-  "homepage": "https://Akorede7-Tech.github.io/Setup", // Your GitHub Pages URL
+  "homepage": "https://Akorede7-Tech.github.io/Setup",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +9,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist" // Deployment script
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.0.0",

@@ -3,7 +3,7 @@ body{
     margin: 0;
     width: 100vw;
     box-sizing: border-box;
-    height: 100vh;
+    height: auto;
     background: #000;
     font-family: sans-serif;
     cursor: default;
